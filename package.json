@@ -1,0 +1,10 @@
+{
+	"token": "process.env.TOKEN",
+	"servers": [
+		"455052978446008350"
+	],
+	"roleName": "Rainbow",
+	"colors": 12,
+	"speed": 2000,
+	"logging": true
+}
